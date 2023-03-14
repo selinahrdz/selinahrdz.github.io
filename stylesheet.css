@@ -1,0 +1,29 @@
+.index-h1{
+    color:rgb(255, 0, 157);
+}
+
+p{
+    color: rgb(255, 0, 157);
+}
+.index-intro p{
+    color: purple;
+}
+.pan{
+    color:aqua
+}
+#pan{
+    color:green;
+}
+a:hover {
+    background-color: darkred;
+    transition: 0.2s;
+  }
+.box-one{
+    background-color: aqua;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 30px solid pink;
+
+
+}
