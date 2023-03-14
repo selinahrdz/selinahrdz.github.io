@@ -12,7 +12,7 @@ p{
     color:aqua
 }
 #pan{
-    color:green;
+    color:black;
 }
 a:hover {
     background-color: darkred;
@@ -26,4 +26,20 @@ a:hover {
     border: 30px solid pink;
 
 
+}
+body{
+    background-color: bisque;
+}
+
+.pink{
+    color: rgb(233, 100, 184);
+}
+.yellow{
+    color: yellow;
+}
+.Brown{
+    color: brown;
+}
+.White{
+    color: white;
 }
